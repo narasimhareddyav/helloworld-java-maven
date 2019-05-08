@@ -40,7 +40,7 @@
  
 <distributionManagement>
 	<repository>
-		<id>tata</id>
+		<id>narasimha</id>
 		<name>Internal Releases</name>
 		<url>http://54.166.138.4:8083/repository/mahasiss/</url>
 	</repository>
