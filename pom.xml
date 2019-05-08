@@ -42,13 +42,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http:/4.166.138.4:8082/repository/scmgalaxy/</url>
+		<url>http://54.166.138.4:8083/repository/mahasiss/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://4.166.138.4:8082/nexus/content/repositories/snapshot/</url>
+		<url>http://54.166.138.4:8083/repository/mahasis/</url>
 	</snapshotRepository>
 
 </distributionManagement>
