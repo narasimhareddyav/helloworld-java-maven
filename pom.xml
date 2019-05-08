@@ -42,13 +42,13 @@
 	<repository>
 		<id>narasimha</id>
 		<name>Internal Releases</name>
-		<url>http://54.166.138.4:8083/repository/mahasiss/</url>
+		<url>http://54.166.138.4:8083/repository/nara1/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>narasimha</id>
 		<name>Internal Releases</name>
-		<url>http://54.166.138.4:8083/repository/mahasis/</url>
+		<url>http://54.166.138.4:8083/repository/nara/</url>
 	</snapshotRepository>
 
 </distributionManagement>
