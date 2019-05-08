@@ -37,20 +37,21 @@
 		</plugin>
 	</plugins>
 	</build>
-  
+ 
 <distributionManagement>
-    <repository>
-        <id>deplaoyment</id>
-        <name>Internal Releases</name>
-        <url>http://http://54.166.138.4:8082/repository/all/</url>
-    </repository>
-    <snapshotRepository>
-        <id>deplaoyment</id>
-        <name>Internal Releases</name>
-        <url>http://http://54.166.138.4:8082/repository/all/</url>
-    </snapshotRepository>
-</distributionManagement>
+	<repository>
+		<id>tata</id>
+		<name>Internal Releases</name>
+		<url>http:/4.166.138.4:8082/repository/scmgalaxy/</url>
+	</repository>
+ 
+	<snapshotRepository>
+		<id>tata</id>
+		<name>Internal Releases</name>
+		<url>http://4.166.138.4:8082/nexus/content/repositories/snapshot/</url>
+	</snapshotRepository>
 
+</distributionManagement>
 
 
 
